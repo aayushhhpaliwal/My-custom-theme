@@ -104,7 +104,18 @@
   function _isNativeFunction(fn) {
     return Function.toString.call(fn).indexOf("[native code]") !== -1;
   }
-
+                
+constructor() {
+    super();
+    this.initLoad();
+    this.addEventListener('change', this.onVariantChange);
+}
+  
+initLoad(){
+    this.updateOptions();
+    this.updateMasterId();
+    this.updateMedia();
+} 
   function _wrapNativeSuper(Class) {
     var _cache = typeof Map === "function" ? new Map() : undefined;
 
