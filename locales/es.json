@@ -1,32 +1,34 @@
 {
+  "404": {
+    "general": {
+      "title": "404",
+      "content": "La página que está buscando no existe",
+      "button": "Volver a la Página de Inicio"
+    }
+  },
   "general": {
     "meta": {
       "tags": "Etiquetas \"{{ tags }}\"",
       "page": "Página {{ page }}"
     },
-
     "breadcrumb": {
       "home": "Home"
     },
-
     "accessibility": {
       "scroll_to_content": "Deslizar para ver",
       "previous": "Anterior",
       "next": "Siguiente",
       "star_reviews_info": "{{ rating_value }} de {{ rating_max }} estrellas"
     },
-
     "announcement_bar": {
       "close": "Cerrar"
     },
-    
     "popup": {
       "close": "Cerrar",
       "email_placeholder": "Introduzca su email",
       "submit": "inscribirse",
       "success": "Se ha inscrito a la newsletter"
     },
-
     "password": {
       "enter_password": "Introduzca contraseña",
       "password_input": "Su contraseña",
@@ -38,20 +40,17 @@
       "login_link": "Iniciar sesión",
       "login_title": "¿Es usted el propietario de la página?"
     },
-
     "pagination": {
       "previous_page": "Página anterior",
       "next_page": "Página siguiente",
       "go_to_page": "Ir a página {{page}}"
     }
   },
-
   "header": {
     "general": {
       "locale": "Idioma",
-      "country": "País/región"
+      "country": "País\/región"
     },
-
     "navigation": {
       "account": "Cuenta",
       "search": "Buscar",
@@ -67,20 +66,17 @@
       "sidebar_title": "Barra navegación lateral"
     }
   },
-
   "footer": {
     "general": {
       "locale": "Idioma",
-      "country": "País/región"
+      "country": "País\/región"
     },
-
     "newsletter": {
       "success": "Se ha registrado en nuestra newsltetter",
       "input": "Introduzca su email",
       "submit": "Inscribirse"
     }
   },
-
   "search": {
     "general": {
       "title": "Buscar",
@@ -104,15 +100,6 @@
       "articles": "Diario"
     }
   },
-
-  "404": {
-    "general": {
-      "title": "404",
-      "content": "La página que está buscando no existe",
-      "button": "Volver a la Página de Inicio"
-    }
-  },
-
   "home_page": {
     "onboarding": {
       "vendor_title": "Nombre de la marca",
@@ -123,28 +110,23 @@
       "article_category": "Categoría",
       "article_excerpt": "Su tienda no ha publicado ninguna entrada todavía. Un blog puede usarse para comentar nuevos lanzamientos de productos, consejos u otras noticias que quiera compartir con los clientes. Puede revisar el blog de Shopify ecommerce para obtener inspiración y consejo para su propia tienda y blog"
     },
-
     "featured_product": {
       "view_product": "Ver los detalles del producto"
     },
-
     "shop_the_look": {
       "view_product": "Ver este producto",
       "view_products": "Ver Productos",
       "popover_title": "Ver este estilismo"
     },
-
     "featured_video": {
       "play": "Reproducir video"
     },
-
     "newsletter": {
       "input": "Introduzca su email",
       "submit": "Inscribirse",
       "success": "Se ha inscrito a la newsletter"
     }
   },
-
   "collection_list": {
     "general": {
       "title": "Todas las colecciones",
@@ -152,7 +134,6 @@
       "empty_button": "Volver al Inicio"
     }
   },
-
   "collection": {
     "general": {
       "all_products": "Todos los productos",
@@ -162,7 +143,6 @@
       "reset": "Borrar filtros",
       "view_products": "Ver productos"
     },
-
     "filter": {
       "title": "Filtro",
       "price_filter_from": "De",
@@ -172,24 +152,20 @@
       "reset": "Resetear",
       "apply": "Aplicar"
     },
-
     "sorting": {
       "title": "Tipo",
       "show_sort": "Ordenar por"
     },
-
     "layout": {
       "show_one_per_row": "Mostrar un producto por línea",
       "show_two_per_row": "Mostrar dos productos por línea",
       "show_four_per_row": "Mostrar cuatro productos por línea"
     },
-
     "product": {
       "from_price_html": "Desde {{min_price}}",
       "view_product": "Ver producto"
     }
   },
-
   "customer": {
     "account": {
       "title": "Mi cuenta",
@@ -204,7 +180,6 @@
       "edit_addresses": "Editar direcciones",
       "manage_addresses": "Administrar direcciones"
     },
-
     "login": {
       "title": "Iniciar sesión",
       "description": "Por favor introduzca su email y contraseña:",
@@ -215,7 +190,6 @@
       "register_label": "¿no tiene una cuenta?",
       "register_link": "Crear cuenta"
     },
-
     "orders": {
       "order_number": "Pedido",
       "date": "Fecha",
@@ -223,7 +197,6 @@
       "total": "Total",
       "fulfillment_status": "Estado"
     },
-
     "order": {
       "title": "Pedido {{order_number}}",
       "back_to_account": "Volver a la cuenta",
@@ -243,7 +216,6 @@
       "billing_address": "Dirección de facturación",
       "no_shipping_address": "No se requiere una dirección de envío para este pedido."
     },
-
     "activate_account": {
       "title": "Activar cuenta",
       "description": "Por favor introduzca una contraseña para crear una cuenta",
@@ -252,7 +224,6 @@
       "submit": "Activar",
       "decline": "Declinar"
     },
-
     "recover_password": {
       "title": "Recuperar contraseña",
       "description": "Por favor introduzca su email:",
@@ -262,7 +233,6 @@
       "login_label": "¿Recordar su contraseña?",
       "login_link": "Volver a Inicio de sesión"
     },
-
     "reset_password": {
       "title": "Resetear contraseña",
       "description": "Por favor introduzca una nueva contraseña",
@@ -270,7 +240,6 @@
       "password_confirmation": "Confirmar contraseña",
       "submit": "Resetear"
     },
-
     "addresses": {
       "title": "Mis direcciones",
       "empty": "No se han guardado direcciones todavía",
@@ -293,7 +262,6 @@
       "phone": "Teléfono",
       "set_default": "Establecer como dirección predeterminada"
     },
-
     "register": {
       "title": "Registrar",
       "description": "Por favor complete la siguiente información:",
@@ -304,7 +272,6 @@
       "submit": "Crear una cuenta"
     }
   },
-
   "cart": {
     "general": {
       "title": "Carrito",
@@ -321,7 +288,6 @@
       "total": "Total",
       "checkout": "Pasar por caja"
     },
-
     "items": {
       "product": "Producto",
       "quantity": "Cantidad",
@@ -329,7 +295,6 @@
       "set_quantity": "Establecer la cantidad en {{new_quantity}} ",
       "remove": "Eliminar"
     },
-
     "shipping_estimator": {
       "title": "Envío estimado",
       "country": "País",
@@ -341,7 +306,6 @@
       "no_results_title": "No se pudo encontrar ningún envío"
     }
   },
-
   "product": {
     "general": {
       "include_taxes": "Impuestos incluídos",
@@ -353,12 +317,10 @@
         "other": "{{ count }} reseñas"
       }
     },
-
     "labels": {
       "sold_out": "Agotado",
       "on_sale": "En oferta"
     },
-
     "slideshow": {
       "zoom": "Zoom",
       "go_to_image": "Navegar a la imagen {{i}}",
@@ -367,7 +329,6 @@
       "next": "Siguiente (flecha derecha)",
       "image_loading_error": "Esta imagen no pudo ser cargada. Intente volver a cargar la página."
     },
-
     "form": {
       "variant_label": "Variante",
       "sku": "SKU",
@@ -392,12 +353,10 @@
       "view_info": "Más información",
       "view_images": "Ver imagenes"
     },
-
     "tabs": {
       "reviews": "Opiniones"
     }
   },
-
   "store_availability": {
     "general": {
       "view_store_info": "Ver información de la tienda",
@@ -408,7 +367,6 @@
       "pick_up_unavailable_at_html": "Recogida no disponible actualmente en <strong> {{location_name}} <\/strong>"
     }
   },
-
   "gift_card": {
     "issued": {
       "subtext": "¡Aquí tienes tu tarjeta regalo!",
@@ -424,14 +382,12 @@
       "add_to_apple_wallet": "Agregar a Apple Wallet"
     }
   },
-
   "blog": {
     "general": {
       "no_articles": "El blog {{blog_title}} está vacío",
       "empty_button": "Volver al Inicio",
       "all_tag": "Todo"
     },
-
     "article": {
       "read_more": "Leer más",
       "written_by": "Escrito por {{author}}",
@@ -445,7 +401,6 @@
         "other": "{{count}} comentarios"
       }
     },
-
     "comments": {
       "form_title": "Dejar un comentario",
       "name_placeholder": "Nombre",
@@ -457,7 +412,6 @@
       "success_moderated": "Tu comentario ha sido enviado. ¡Será visible una vez que Coloretas lo haya aceptado!"
     }
   },
-
   "contact": {
     "form": {
       "name": "Su nombre",
@@ -467,10 +421,54 @@
       "successfully_sent": "Su mensaje ha sido enviado con éxito."
     }
   },
-
   "date_formats": {
     "month_day_year": "%d %B, %Y",
     "month_day_year_short": "%d\/%m\/%Y",
     "month_day_year_time": "%d %B, %Y a las %I:%M%p"
+  },
+  "pagefly": {
+    "products": {
+      "product": {
+        "regular_price": "Regular price",
+        "sold_out": "Sold out",
+        "unavailable": "Unavailable",
+        "on_sale": "Sale",
+        "quantity": "Quantity",
+        "add_to_cart": "Add to cart",
+        "back_to_collection": "Back to {{ title }}",
+        "view_details": "View details"
+      }
+    },
+    "article": {
+      "tags": "Tags:",
+      "all_topics": "All topics",
+      "by_author": "by {{ author }}",
+      "posted_in": "Posted in",
+      "read_more": "Read more",
+      "back_to_blog": "Back to {{ title }}"
+    },
+    "comments": {
+      "title": "Leave a comment",
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "post": "Post comment",
+      "moderated": "Please note, comments must be approved before they are published",
+      "success_moderated": "Your comment was posted successfully. We will publish it in a little while, as our blog is moderated.",
+      "success": "Your comment was posted successfully! Thank you!",
+      "comments_with_count": {
+        "one": "{{ count }} comment",
+        "other": "{{ count }} comments"
+      }
+    },
+    "password_page": {
+      "login_form_message": "Enter store using password:",
+      "login_form_password_label": "Password",
+      "login_form_password_placeholder": "Your password",
+      "login_form_submit": "Enter",
+      "signup_form_email_label": "Email",
+      "signup_form_success": "We will send you an email right before we open!",
+      "password_link": "Enter using password"
+    }
   }
 }
